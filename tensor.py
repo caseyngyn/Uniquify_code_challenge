@@ -56,5 +56,6 @@ def main():
     shape1 = [5, 2]
     data1 =  [0, 1, 2, 3, 4, 5, 0.1, 0.2, -3, -2, -1, 3, 2, 1]
     tensor0 = Tensor(data1, shape1)
+    #tensor0 = Tensor(data0, shape0)
 
 main()
